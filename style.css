@@ -1,0 +1,16 @@
+.zA, .hP, .yP, .y2, .zF {
+	color: black !important;
+	background-color: white !important;
+	font-weight: 900 !important;
+}
+
+.gs {
+	font-weight: 900 !important;
+	color: black;
+}
+
+a:hover {
+	color: black !important;
+	background-color: white !important;
+	font-weight: 900 !important;
+}
